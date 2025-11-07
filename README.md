@@ -3,6 +3,9 @@
 </p>
 
 # 🎬 Relational Database for Streaming Service
+![Python](https://img.shields.io/badge/SQL-blue)
+![Oracle](https://img.shields.io/badge/Oracle-Database-red)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 > This is a comprehensive project that models and implements a **relational database system** for a movie streaming platform using **Oracle RDBMS**
 
